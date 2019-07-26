@@ -13,7 +13,6 @@ namespace DeanKellyAppointmentApp
         public string Address2 { get; set; }
         public string PostalCode { get; set; }
         public string Phone { get; set; }
-
         public Address()
         {
 
