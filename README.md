@@ -5,7 +5,7 @@ A C# appointment scheduling application built for my C969 Software II - Advanced
 # What I Learned
 
 * Developed application with functionality to add, update, and delete customer records and appointments.
-* Appointments and customer records were linked to MySQL database and synced properly to reflect and changes.
+* Appointments and customer records were linked to MySQL database and synced properly to reflect any changes.
 * Enabled application to view calendar by month or week.
 * Enabled application to alert user of any appointments beginning within 15 minutes of user login.
 * Developed application to automatically adjust appointment times based on user's time zone and daylight saving time.
